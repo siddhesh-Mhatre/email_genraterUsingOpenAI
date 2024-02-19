@@ -3,7 +3,7 @@ import openai
 import smtplib
 
 # Set up your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "KEY"
 
 # Function to generate email using GPT-3
 def generate_email(prompt, email_type):
