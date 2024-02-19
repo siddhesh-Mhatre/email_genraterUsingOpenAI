@@ -34,7 +34,7 @@ def send_email():
 
     if st.button("Send Email"):
         email = "thakurtcsceduanjali@gmail.com"
-        smtp_password = "dwhjomndmsrefzfx"
+        smtp_password = "Your pass"
         smtp_server = "smtp.gmail.com"
 
         text = f"Subject:{subject}\n\n{message}"
