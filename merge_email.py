@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 import smtplib
 
-# Set up your OpenAI API key
+# Set up your OpenAI API key 
 openai.api_key = "KEY"
 
 # Function to generate email using GPT-3
